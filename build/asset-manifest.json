@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2457ff47.css",
+    "main.js": "/static/js/main.8adf40ff.js",
+    "static/media/BekzodAvazov.pdf": "/static/media/BekzodAvazov.cd2e10e75519332891d4.pdf",
+    "static/media/work1.jpg": "/static/media/work1.510b723c72eb67232bd7.jpg",
+    "static/media/work3.jpg": "/static/media/work3.9495c89104d0a3594433.jpg",
+    "static/media/work2.jpg": "/static/media/work2.21bca2fbb066b1558cd5.jpg",
+    "static/media/Me.png": "/static/media/Me.ccfe5710d3e82bc10b0c.png",
+    "index.html": "/index.html",
+    "main.2457ff47.css.map": "/static/css/main.2457ff47.css.map",
+    "main.8adf40ff.js.map": "/static/js/main.8adf40ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2457ff47.css",
+    "static/js/main.8adf40ff.js"
+  ]
+}
